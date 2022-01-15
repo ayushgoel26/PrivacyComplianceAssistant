@@ -1,0 +1,30 @@
+Management|Do you have privacy policies defined and documented for privacy program?|2|manage|document_privacy
+Management|Do you have privacy awareness training program?(preferabley role based training)?|1.5|manage|awareness_program
+Management|Do you perodically review and update privacy policies ? (once in year is recommended)?|1|manage|policy_update
+Notice|Have you communicated privacy notices to individuals?|1.5|notice|communicated
+Notice|Does privacy notice include rights and obligations regarding collecting, processing, disclosing, storing, securing and disposing any of the personal information?|1|notice|rights_obligations
+Notice|Is client consent sought for secondary uses of personal information, such as service monitoring?|2|notice|secondary_use_consent
+Choice and Consent|Have you communicated the consequences of denying/withdrawing consent of the personal data?|1.5|consent|consequences_communicated
+Choice and Consent|Have you obtained and communicated explicit consent for sensitive data? (e.g. racial or ethnic origin, political opinions, religious or philosophical beliefs; data concerning a person's sex life or sexual orientation)|2|consent|sensitive_data_explicit_consent
+Choice and Consent|Are Consent requests separate from other terms and conditions?|0.5|consent|consent_request_seperation
+Collection|Do you have documented process that describes types of information collected and methods of collection (including collection through third parties)?|1.5|collection|collection_info_documentation
+Collection|Do you collect personal information by fair and lawful means, including collection from third parties? How do you ensure no more is collected than is necessary to achieve a specific purpose?|1.5|collection|data_collected_lawfully
+Collection|Do you audit personal information being collected for completeness and accuracy? If so, how often?|1|collection|personal_info_audit
+Use Retention and Disposal|Do you have processes and procedures in place to ensure personal information is used, retained and disposed appropriately?|2|use_disposal|info_used_disposed_correctly
+Use Retention and Disposal|When personal information is no longer required for the identified purposes or it is no longer required by law, is it securely destroyed, erased or made anonymous?|1|use_disposal|destroyed_securely_after_use
+Use Retention and Disposal|Will the personal information be used for the reason it was originally collected?|1.5|use_disposal|personal_info_usage
+Access|Do you have process and procedures in-place to confirm individual’s identity before access is given to personal information?|2|access|confirm_id_before_diclosing_info
+Access|Do you have process and procedures in-place to ensure personal information is presented to individuals in understandable format?|0.5|access|personal_info_presentation
+Access|Do you have security controls to review access to personal information?|1.5|access|security_control
+Disclosure to third parties|Do you inform individuals about communication and disclosing of personal information with third parties?|1.5|disclosure|inform_disclosing_info
+Disclosure to third parties|Do you make individuals aware of any new uses of the personal information?|1|disclosure|new_use_personal_info
+Disclosure to third parties|Do information management policies and/or records list all personal information collected?|0.5|disclosure|list_all_info
+Security for Privacy|Do you have policy that addresses the security of personal information? e.g. information security policy?|1.5|security|policy_security_information
+Security for Privacy|Do you have information security program that includes administrative, technical and physical safeguards of individuals personal information?|1.5|security|info_sec_program
+Security for Privacy|Do you have restrictions on physical access to safeguard individual perosnal information?|1|security|access_restrictions
+Quality|Do you have documented process on when and how personal information is updated, to ensure its accuracy?|1|quality|process_info_update_ensure_accuracy
+Quality|Do you have process to ensure that personal information received from a third party is accurate and complete?|1.5|quality|process_ensure_info_recieved_accuracy
+Quality|Do you provide a brief explanation of an individual’s rights of access, delete and objection to the processing?|0.5|quality|provide_explanation
+Monitoring and enforcement|Do you have prcoedures that describes how individuals should contact the organization with inquiries, complaints and disputes?|1.5|monitoring|procedure_contact_disputes_enquiry
+Monitoring and enforcement|Do you have docuemnted process in place to track and monitor inquires, complaints or disputes?|1.5|monitoring|document_track_disputes_enquiry
+Monitoring and enforcement|Can an individual easily find out how to file a privacy complaint?|0.5|monitoring|privacy_complaint_info
