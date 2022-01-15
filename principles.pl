@@ -5,11 +5,11 @@
 % principle(principle_name, principle_target_min).
 principle(manage, 0.72).
 principle(notice, 0.79).
-principle(consent, 0.72).
-principle(collection, 0.79).
-principle(use_disposal, 0.72).
-principle(access, 0.79).
-principle(disclosure, 0.72).
-principle(security, 0.79).
-principle(quality, 0.72).
-principle(monitoring, 0.79).
+principle(consent, 0.67).
+principle(collection, 0.85).
+principle(use_disposal, 0.8).
+principle(access, 0.6).
+principle(disclosure, 0.87).
+principle(security, 0.83).
+principle(quality, 0.75).
+principle(monitoring, 0.8).
